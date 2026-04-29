@@ -1,3 +1,5 @@
+The map.osm file comes from https://openstreetmap.org, You can customize the extraction and download, and use your favorite .osm file to change the file in the OSMCity Map File.
+
 <img width="2559" height="1464" alt="28210aa444af14692f29dcc0568dcbb8" src="https://github.com/user-attachments/assets/52575cb6-c2b8-43f1-8497-60fdb99b49a0" />
 <img width="2551" height="1455" alt="f6acdf98d56f02b9bd0b7017fc3926d1" src="https://github.com/user-attachments/assets/4413d5b4-c6e7-4f8d-938b-365f3081f24e" />
 
